@@ -3,13 +3,11 @@ This package is based on the work of https://github.com/PoBuchi/meteor-accounts-
 This package requires at least meteor 2.3, if you have an older version of meteor in your project, I recommend you to use `pauli:accounts-linkedin`.
 
 ## Installation
----
 ```
 meteor add codifytools:accounts-linkedin
 ```
 
 ## Setup
----
 On the server-side you must setup the clientId and secret of your Linkedin Application by using the following code:
 
 ```js
