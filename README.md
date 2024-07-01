@@ -1,6 +1,4 @@
-This package is based on the work of https://github.com/PoBuchi/meteor-accounts-linkedin. Since the `pauli:accounts-linkedin` package has not been updated for a couple of years (and doesn't work with Meteor 2.3+), I decided to start maintaining it.
-
-This package requires at least meteor 2.3, if you have an older version of meteor in your project, I recommend you to use `pauli:accounts-linkedin`.
+This package is based on the work of https://github.com/codifytools/meteor-accounts-linkedin. Since the `codifytools:accounts-linkedin` package has not been updated for a couple of years, I decided to start maintaining it.
 
 ## Installation
 ```
