@@ -4,7 +4,7 @@ This package requires at least meteor 2.3, if you have an older version of meteo
 
 ## Installation
 ```
-meteor add codifytools:accounts-linkedin
+meteor add efattal:accounts-linkedin
 ```
 
 ## Setup
